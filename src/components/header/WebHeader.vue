@@ -12,5 +12,5 @@ import NavigationBar from './NavigationBar.vue';
         <NavigationBar></NavigationBar>
       </div>
     </header>
-  </template>
+</template>
   

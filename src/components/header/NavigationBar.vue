@@ -9,8 +9,8 @@ import SignupMenu from './SignupMenu.vue';
       class="header__navbar row justify-content-between align-items-center"
       style="width: 450px"
     >
-        <SearchMenu></SearchMenu>
-        <SignupMenu></SignupMenu>
+      <SearchMenu></SearchMenu>
+      <SignupMenu></SignupMenu>
     </div>
-  </template>
+</template>
   

@@ -16,5 +16,5 @@ import RecipeList from '../recipe/RecipeList.vue';
       </div>
       <RecipeList></RecipeList>
     </div>
-  </template>
+</template>
   
